@@ -21,3 +21,4 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui \
     addownerinfo.ui
+    囧囧囧囧囧囧囧囧囧囧囧囧
